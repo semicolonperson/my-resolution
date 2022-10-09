@@ -2,3 +2,4 @@ MY-RESOLUTION
 - belajar web development minimal 3x sehari 
 - bikin website buat ulang tahun angkatan 
 - bikin app/web buat PKL di semester 6
+- explore hal baru
