@@ -1,2 +1,3 @@
 # my-resolution
-repository untuk menyimpan project saya kedepannya 
+Repo ini dibuat untuk menyimpan project-project saya kedepannya 
+semoga apa yang saya buat dapat bermanfaat untuk orang lain 
