@@ -6,6 +6,7 @@ RENCANA BELAJAR
 - Javascript
 * Framework javascript
   ^ Vue
+  ^ React
 - PHP Frameworks
   ^ Laravel
 - Java 
