@@ -5,6 +5,9 @@ RENCANA BELAJAR
 * Framework CSS
 - Javascript
 * Framework javascript
+  ^ Vue
+- PHP Frameworks
+  ^ Laravel
 - Java 
 - SQL 
-- phyton
+- python
