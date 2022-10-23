@@ -1,0 +1,9 @@
+RENCANA BELAJAR 
+
+- HTML
+- CSS
+* Framework CSS
+- Javascript
+* Framework javascript
+- Java 
+- SQL 
