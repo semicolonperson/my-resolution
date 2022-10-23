@@ -7,3 +7,4 @@ RENCANA BELAJAR
 * Framework javascript
 - Java 
 - SQL 
+- phyton
