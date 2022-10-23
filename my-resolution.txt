@@ -3,3 +3,4 @@ MY-RESOLUTION
 - bikin website buat ulang tahun angkatan 
 - bikin app/web buat PKL di semester 6
 - explore hal baru
+- Mengulang belajar SQL
